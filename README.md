@@ -1,4 +1,4 @@
 # game
 # Добро пожаловать на наш сайт!
 Вскоре здесь вы сможете сыграть в разные игры!
-theme: jekyll-theme-minimal
+theme: jekyll-theme-Architect
